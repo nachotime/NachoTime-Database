@@ -7,13 +7,29 @@
     {
       "Quality": 720,
       "Torrent": ""
-    },
-    {
+      "seeds":[
+        "RTC": "0"
+        "BIT": "1"
+      ],
+      "Leechers":[
+        "RTC": "0"
+        "BIT": "1"
+      ]
+    },{
       "Quality": 1080,
       "Torrent": ""
+      "seeds":[
+        "RTC": "0"
+        "BIT": "1"
+      ],
+      "Leechers":[
+        "RTC": "0"
+        "BIT": "1"
+      ]
     }
     ],
     "Leader": "",
     "Poster": "",
-    "Year": ""
+    "Year": "",
+    "TrailerYT": "99k3u9ay1gs"
 }
